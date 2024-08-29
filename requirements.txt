@@ -1,4 +1,4 @@
-scs>=3.2.3  # Required to prevent `No module named 'distutils.msvccompiler'` error
+scs>=3.2.7  # Required to prevent `No module named 'distutils.msvccompiler'` error
 cvxpy>=1.1.19
 matplotlib>=3.2.0
 numpy>=1.0.0
