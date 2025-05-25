@@ -44,7 +44,7 @@ scs = '>=3.2.7'  # Required to prevent `No module named 'distutils.msvccompiler'
 pytest = "^7.1.2"
 flake8 = "^4.0.1"
 jupyterlab = "^3.4.2"
-black = "^22.3.0"
+black = "^25.0.0"
 ipykernel = "^6.13.0"
 jedi = "^0.18.1"
 pytest-cov = "^3.0.0"
