@@ -42,7 +42,7 @@ scs = '>=3.2.7'  # Required to prevent `No module named 'distutils.msvccompiler'
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
-flake8 = "^4.0.1"
+flake8 = "^7.0.0"
 jupyterlab = "^3.4.2"
 black = "^22.3.0"
 ipykernel = "^6.13.0"
